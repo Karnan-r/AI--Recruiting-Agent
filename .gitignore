@@ -1,0 +1,26 @@
+# Ignore Node.js dependencies and build files
+frontend/node_modules/
+frontend/.next/
+frontend/build/
+frontend/dist/
+frontend/.env
+
+# Ignore Python virtual environment
+backend/venv/
+backend/__pycache__/
+backend/.env
+
+# Ignore logs and system files
+*.log
+.DS_Store
+*.pyc
+*.pyo
+*.swp
+
+# Ignore IDE/editor settings
+.vscode/
+.idea/
+*.sublime-workspace
+
+# Ignore Git-related files
+.git/
