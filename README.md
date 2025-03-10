@@ -2,7 +2,7 @@ AI-Powered Recruiting Outreach Platform
 
 Project Overview
 
-Helix is a prototype AI-powered recruiting outreach platform that helps recruiters create personalized outreach sequences through a chat-driven interface. The application features a split-screen design with an interactive AI chat on the left and a dynamic workspace for editing sequences on the right.
+This is a prototype AI-powered recruiting outreach platform that helps recruiters create personalized outreach sequences through a chat-driven interface. The application features a split-screen design with an interactive AI chat on the left and a dynamic workspace for editing sequences on the right.
 Current Implementation Status
 
 Completed Features
